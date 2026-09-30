@@ -1,0 +1,6 @@
+{
+  "name": "MailLens AI – Email Campaign Analyzer",
+  "description": "Turn every email campaign into actionable insight with AI-powered content and metrics analysis, spam-risk evaluation, subject line optimization, and A/B test generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
